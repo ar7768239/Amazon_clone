@@ -1,7 +1,7 @@
 {
-  "name": "zigzag-mp-service",
+  "name": "zigzag-marketplace",
   "version": "1.0.0",
-  "description": "JavaScript runtime engine for ZigZag Marketplace",
+  "description": "Node.js hosting wrapper for ZigZag Marketplace",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
